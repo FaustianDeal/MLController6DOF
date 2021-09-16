@@ -2,13 +2,13 @@
 id: ml1-raycast-in-unity
 title: 2.2 Control Raycast - Unity
 sidebar_position: 2
-date: 09/04/2020
-sdk: v0.24.1
+date: 09/16/2021
+sdk: v0.26.0
 engine: Unity
 description: Learn how to write a Unity app to cast rays to find fast intersections with the world geometry. Raycast is a feature of World Reconstruction for low-latency determination of surface intersections from the world reconstruction model.
 ---
 
-In this guide we cast rays from the center of our camera. When a ray hits a surface, we create one cube at that position. Additionally, we orient the cube depending on the direction (normal) of the surface we hit.
+In this guide we cast rays from a controller object. When a ray hits a surface, we create one cube at that position. Additionally, we orient the cube depending on the direction (normal) of the surface we hit.
 
 ## What will you learn?
 
