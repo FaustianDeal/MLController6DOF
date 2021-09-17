@@ -104,9 +104,9 @@ public class DynamicBeam : MonoBehaviour
         }
         else
         {
-            beamLine.useWorldSpace = false;
+            beamLine.useWorldSpace = true;
             beamLine.SetPosition(0, transform.position);
-            beamLine.SetPosition(1, Vector3.forward * 5);
+            beamLine.SetPosition(1, transform.forward * 5);
         }
     }
 }
