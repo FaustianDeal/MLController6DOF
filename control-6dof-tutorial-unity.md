@@ -33,7 +33,7 @@ Before starting this tutorial, complete the following:
 
 Output values sent to apps built in Unity follow the **frame definition** illustrated below. 
 
-![control axis unity3](https://github.com/FaustianDeal/MLController6DOF/Images/control_axis_unity3.png)
+![control axis unity3](https://github.com/FaustianDeal/MLController6DOF/blob/main/Images/control_axis_unity3.png)
 
 The definition is as follows:
 
