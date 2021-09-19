@@ -20,8 +20,6 @@ By the end of this tutorial, you will be able to:
 - **Receive** the position and orientation data of the Control.
 - **Design** a pointer like a laser beam which starts from the Control and extends *2 meters* away from it.
 
-![run](/legacy/kn6zp1o9zgwh/5JzVIBuoH3Yz4ijENYtLwP/ae21a900c69200b4449d4d6bed3e307f/run.gif)
-
 ## Prerequisites
 
 | For older Unity Editors and earlier versions of the Lumin SDK visit the [Unity Doc Archive](unity-doc-archive) guide.   |
@@ -35,7 +33,7 @@ Before starting this tutorial, complete the following:
 
 Output values sent to apps built in Unity follow the **frame definition** illustrated below. 
 
-![control axis unity3](/legacy/kn6zp1o9zgwh/22RKXPUvsI0iUmAs8YAyYS/53d2b1f1b0dbeae53be71d6cdec7a451/control_axis_unity3.png)
+![control axis unity3](https://github.com/FaustianDeal/MLController6DOF/Images/control_axis_unity3.png)
 
 The definition is as follows:
 
